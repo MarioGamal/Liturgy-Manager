@@ -1,7 +1,7 @@
 import axios from 'axios';
 let baseURL = ''
 if (process.env.NODE_ENV == 'production')
-    baseURL = `https://stgmb.herokuapp.com/`;
+    baseURL = `https://liturgy-manager.herokuapp.com/`;
 else
     baseURL = `http://localhost:5000/`;
 export const axiosInstance = axios.create({
