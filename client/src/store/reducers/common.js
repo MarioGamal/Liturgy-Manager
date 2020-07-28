@@ -11,7 +11,7 @@ const initialState = {
     action: { needed: false },
     loadingPage: false,
     underConstruction: {
-        title: 'كنيسه مارجرجس حمامات القبه',
+        title: 'كنيسه مارجرجس منشية الصدر',
         subTitle: 'سوف يتم حجز القداسات من هذا الموقع حين تتم فتح الكنائس',
         info: [
             'يمكنك حجز موعد قداس لاكثر من شخص عن طريق ادخال الرقم القومي لكل منهم',
