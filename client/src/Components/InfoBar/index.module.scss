@@ -1,0 +1,15 @@
+li.listGroupItem {
+  background-color: transparent;
+}
+
+li.listGroupItem:first-child {
+  background-color: transparent;
+  padding-top: 0px;
+}
+li.listGroupItem:last-child {
+  background-color: transparent;
+  padding-bottom: 0px;
+}
+.loading {
+  margin: 0 auto;
+}

@@ -1,0 +1,10 @@
+.seats {
+  width: fit-content;
+  float: right;
+}
+li.listGroupItem:first-child {
+  padding-top: 0px;
+}
+li.listGroupItem:last-child {
+  padding-bottom: 0px;
+}

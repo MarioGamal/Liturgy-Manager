@@ -1,0 +1,23 @@
+@import "node_modules/bootstrap/scss/functions";
+@import "bootstrap/scss/_variables.scss";
+nav.navbar {
+  justify-content: initial;
+  display: flex !important;
+  flex-basis: auto;
+}
+nav.navbar .navbarNav {
+  flex-direction: row;
+}
+nav.navbar .navbarNav li a {
+  width: max-content;
+}
+@media only screen and (max-width: 992px) {
+  nav.navbar .navbarNav {
+    overflow: scroll;
+  }
+}
+a.logoWidth {
+  width: 40px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}

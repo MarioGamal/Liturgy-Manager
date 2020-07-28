@@ -1,0 +1,17 @@
+{
+	"helpYou": "كيف يمكنني مساعدتك ؟",
+	"massBooking": "حجز موعد قداس",
+	"editMassBooking": "معرفه/تعديل اخر حجز",
+	"inValidFullname": "الاسم غير مطابق للشروط",
+	"inValidMobile": "رقم الوبايل غير مطابق للشروط",
+	"inValidNationalId": "الرقم القومي غير مطابق للشروط",
+	"inValidAction": "امر غير مطابق نعتذر لهذا العطل ,من فضلك ارجع لاحد المسئولين عن الخدمه",
+	"senderIdRequired": "senderIdRequired",
+	"tileRequired": "العنوان مطلوب",
+	"dateRequired" : "التاريخ مطلوب",
+	"seatsRequired" : "عدد المقاعد مطلوب",
+	"fatherRequired" : "الكاهن مطلوب",
+	"generalError"  :"حدث خطأ. من فضلك حاول مرة أخرى",
+	"objectNotExists"  :" السجل المطلوب غير موجود",
+	"NotEnoughSeats"  :" لا يوجد أماكن متاحة"
+}
