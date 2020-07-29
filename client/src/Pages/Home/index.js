@@ -11,6 +11,7 @@ const Home = ({ info, infoTitle, currentPhase }) => {
     const endDate = dayMonthFormat(currentPhase.end)
     return (
         <div>
+            <h2>كنيسة الشهيد العظيم مارجرجس - منشية الصدر</h2>
             <Title title={homeTitle} classes='mb-3 mt-3 text-center'
                 subTitle={`${startDate}
                      ـــــــــ ${endDate}`} />
