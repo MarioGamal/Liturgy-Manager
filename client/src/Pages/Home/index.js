@@ -19,11 +19,12 @@ const Home = ({ info, infoTitle, currentPhase }) => {
 
             <InfoBar title={infoTitle} type="info" items={info} classes='mb-3' />
             <div className="text-center mb-3">
+            أو
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScJprKDvk_E6TGOPIdUC_g9lqNfzdXvjjW-Mk0Rb-UzJvLDog/viewform">ملئ استمارة العضوية</a>
                 <Link to='/booking' classes="btn btn-primary btn-lg">
                     {startBooking}
                 </Link>
-                أو
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScJprKDvk_E6TGOPIdUC_g9lqNfzdXvjjW-Mk0Rb-UzJvLDog/viewform">ملئ استمارة العضوية</a>
+                
             </div>
         </div>
     )
